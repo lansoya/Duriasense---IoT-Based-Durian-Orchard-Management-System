@@ -1,2 +1,16 @@
-# Duriasense---IoT-Based-Durian-Orchard-Management-System
-An IoT-based durian orchard management system that utilizes BLE-connected ESP32 sensors to monitor soil pH, moisture, temperature, and EC. The data is displayed in a real-time Flutter mobile app with features like visual indicators, QR code tagging, local database storage, and CSV/PDF export for precision agriculture.
+# ble_esp32
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
