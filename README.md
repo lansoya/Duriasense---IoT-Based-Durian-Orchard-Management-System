@@ -34,7 +34,7 @@ DuriaSense was developed using the **Agile methodology**, following iterative cy
 ## 📸 Screenshots (Flutter App UI)  
 
 ### Dashboard Interface
-![Dashboard](screenshots/Dashboard.jpg)
+![Dashboard](screenshots/dashboardhomepage.png)
 
 ### Graph & Color Bars
 ![Graphs](screenshots/Visual_sensor_display.png)
@@ -72,3 +72,4 @@ DuriaSense was developed using the **Agile methodology**, following iterative cy
 - 👤 User authentication & multi-user support  
 - 📊 Advanced analytics & trend prediction  
 - 🔋 Optimized power management for field deployment
+
